@@ -5,8 +5,8 @@
 <br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcioTanan&show_icons=true&count_private=true&hide_border=true&title_color=8A00E0&icon_color=8A00E0&text_color=c9d1d9&bg_color=0d1117" alt="Marcio Tanan github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcioTanan&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=6B00AD" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarcioTanan&show_icons=true&count_private=true&hide_border=true&title_color=8A00E0&icon_color=8A00E0&text_color=c9d1d9&bg_color=0d1117" alt="Marcio Tanan github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarcioTanan&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=6B00AD" />
 </div>
 
 <br>
